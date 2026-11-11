@@ -1,2 +1,2 @@
 # classroom-apps
-Classroom Apps - Bubble Grader V2.3
+Classroom Apps - Bubble Grader
